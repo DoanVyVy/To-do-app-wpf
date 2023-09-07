@@ -1,0 +1,13 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:viewmodel="clr-namespace:FinalProject.ViewModel"
+                    >
+    <viewmodel:MainViewModel x:Key="MainVM"></viewmodel:MainViewModel>
+    <viewmodel:MyDayViewModel x:Key="MyDayVM"></viewmodel:MyDayViewModel>
+    <viewmodel:ImportantViewModel x:Key="ImportantVM"></viewmodel:ImportantViewModel>
+    <viewmodel:PlannedViewModel x:Key="PlannedVM"></viewmodel:PlannedViewModel>
+    <viewmodel:TasksViewModel x:Key="TasksVM"></viewmodel:TasksViewModel>
+    <viewmodel:LoginFormViewModel x:Key="LoginFormVM"></viewmodel:LoginFormViewModel>
+    <viewmodel:RegisterFormViewModel x:Key="RegisterFormVM"></viewmodel:RegisterFormViewModel>
+    <viewmodel:ControlBarViewModel x:Key="ControlBarVM"></viewmodel:ControlBarViewModel>
+</ResourceDictionary>
