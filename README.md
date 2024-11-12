@@ -20,7 +20,7 @@ This is a simple To-Do application built using **WPF (Windows Presentation Found
 
 ![Main Interface](./screenshots/login-form.png)  
 
-### Database  
+### Database Schema
 ![Database Schema](./screenshots/db-schema.png)  
 *The app uses a local database (SQL Server) to store tasks.*  
 
