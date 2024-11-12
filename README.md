@@ -16,16 +16,12 @@ This is a simple To-Do application built using **WPF (Windows Presentation Found
 ![Main Interface](./screenshots/main-screen.png)  
 *The main screen displays all tasks with options to add, edit, or delete tasks.*  
 
-### Add Task  
-![Add Task](./screenshots/add-task.png)  
-*Add new tasks with relevant details.*  
+### Login Form
 
-### Edit Task  
-![Edit Task](./screenshots/edit-task.png)  
-*Modify task details easily through the edit task popup.*  
+![Main Interface](./screenshots/login-form.png)  
 
 ### Database  
-![Database Schema](./screenshots/database-schema.png)  
+![Database Schema](./screenshots/db-schema.png)  
 *The app uses a local database (SQL Server) to store tasks.*  
 
 ## Technology Stack  
