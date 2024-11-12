@@ -13,7 +13,7 @@ This is a simple To-Do application built using **WPF (Windows Presentation Found
 ## Screenshots  
 
 ### Main Interface  
-![Main Interface]("C:\Users\DOAN VY VY\OneDrive\Pictures\Ảnh chụp màn hình\main-screen.png")  
+![Main Interface](./screenshots/main-screen.png)  
 *The main screen displays all tasks with options to add, edit, or delete tasks.*  
 
 ### Add Task  
