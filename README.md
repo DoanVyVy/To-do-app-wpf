@@ -7,8 +7,7 @@ This is a simple To-Do application built using **WPF (Windows Presentation Found
 - Add new tasks with titles and descriptions.  
 - Edit or update existing tasks.  
 - Mark tasks as completed or pending.  
-- Delete tasks from the list.  
-- Responsive and user-friendly interface for desktop users.  
+- Delete tasks from the list.
 - Local database integration for data persistence.  
 
 ## Screenshots  
@@ -27,12 +26,12 @@ This is a simple To-Do application built using **WPF (Windows Presentation Found
 
 ### Database  
 ![Database Schema](./screenshots/database-schema.png)  
-*The app uses a local database (e.g., SQLite or SQL Server) to store tasks.*  
+*The app uses a local database (SQL Server) to store tasks.*  
 
 ## Technology Stack  
 - **Frontend**: WPF (XAML and C#).  
 - **Backend**: C#.  
-- **Database**: SQLite or SQL Server.  
+- **Database**: SQL Server.  
 
 ## How to Run  
 1. Clone this repository to your local machine.  
